@@ -32,4 +32,6 @@ Ao todo foram realizadas 08 (oito) práticas, conforme apresentado na tabela a s
 | 09 | Incremento e Decremento | [Link para acesso](-)
 
 
+``Todos os créditos (materiais, códigos, apostila) são para o Prof. Titular da disciplina: Dr. Marcelo Marques Simões de Souza.``
+
 <br>
